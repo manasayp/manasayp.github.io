@@ -122,7 +122,7 @@ section:before {display: block;
    padding-left:20px;
    padding-right:40px;
    background-color:#F5F5F5;
-   border-left:1px solid #000000;
+   /*border-left:1px solid #000000;*/
 }
 
 /*Name - home page*/
